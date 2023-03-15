@@ -1,2 +1,2 @@
-from .sites import Base_class
+from .sites import BingX
 
